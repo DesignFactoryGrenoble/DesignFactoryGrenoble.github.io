@@ -2,4 +2,4 @@
 
 Coming soon: September 1st, 2021
 
-![Logo](./logo_dfg.png)
+![Logo](./dfg_logo.png)
